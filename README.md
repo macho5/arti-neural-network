@@ -1,6 +1,5 @@
-# fa20-proj2-starter
 
-```
+
 .
 ├── inputs (test inputs)
 ├── outputs (some test outputs)
@@ -24,5 +23,3 @@
     └── unittests.py (partA + partB)
 ```
 
-
-## Here's what I did in project 2:
