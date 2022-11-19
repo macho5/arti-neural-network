@@ -5,21 +5,21 @@
 ├── outputs (some test outputs)
 ├── README.md
 ├── src
-│   ├── argmax.s (partA)
-│   ├── classify.s (partB)
-│   ├── dot.s (partA)
-│   ├── main.s (do not modify)
-│   ├── matmul.s (partA)
-│   ├── read_matrix.s (partB)
-│   ├── relu.s (partA)
-│   ├── utils.s (do not modify)
-│   └── write_matrix.s (partB)
+│   ├── argmax.s
+│   ├── classify.s
+│   ├── dot.s
+│   ├── main.s
+│   ├── matmul.s
+│   ├── read_matrix.s 
+│   ├── relu.s
+│   ├── utils.s 
+│   └── write_matrix.s 
 ├── tools
-│   ├── convert.py (convert matrix files for partB)
+│   ├── convert.py (convert matrix files)
 │   └── venus.jar (RISC-V simulator)
 └── unittests
     ├── assembly (contains outputs from unittests.py)
-    ├── framework.py (do not modify)
-    └── unittests.py (partA + partB)
+    ├── framework.py 
+    └── unittests.py 
 ```
 
